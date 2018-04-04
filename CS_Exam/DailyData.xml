@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DailySerialize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Days>1</Days>
+  <Rank>445</Rank>
+  <Capital>1402</Capital>
+  <Range>18</Range>
+  <CustomersCount>40</CustomersCount>
+  <soldAVG>0</soldAVG>
+  <Status>Sorted</Status>
+</DailySerialize>
